@@ -3,7 +3,8 @@
 
 ## Schedule and location
 
-- **Session #1**: Thursday, 2 October, 9:30 AM - 11:00 AM @ Room M1 (CEMFI)
+- **Session #1**: Thursday, October 2, 9:30 AM - 11:00 AM @ Room M1 (CEMFI)
+- **Session #2**: Tuesday, October 27, 15:00 AM - 16:30 AM @ Room M1 (CEMFI)
 
 Please bring your laptop to class with `VSCode` and `uv` installed and ready to run Python code.
 
@@ -11,20 +12,22 @@ Please bring your laptop to class with `VSCode` and `uv` installed and ready to 
 
 ```bash
 .
-├── data/                    # Data files for exercises and examples
+├── data/                          # Data files for exercises and examples
 │   ├── death-rate-who.csv
 │   ├── gdp-per-capita-worldbank.csv
 │   └── population-unwpp.csv
-├── docs/                    # Course documentation and papers
-├── output/                  # Generated plots and results
-├── Session1/                # Session 1 notebooks
-│   ├── 1_1.ipynb           # Introduction to Python (Part I)
-│   └── 1_2.ipynb           # Introduction to Python (Part II)
-├── Session2/                # Session 2 materials
-├── Session3/                # Session 3 materials
-├── main.py                  # Main Python script
-├── pyproject.toml          # Project dependencies (uv)
-└── uv.lock                 # Locked dependencies for reproducibility
+├── Session1/                      # Session 1 notebooks
+│   ├── 1_1.ipynb                 # Introduction to Python (Part I)
+│   └── 1_2.ipynb                 # Introduction to Python (Part II)
+├── Session2/                      # Session 2 materials
+│   ├── 2_1_Scraping_Intro.ipynb  # Web scraping introduction
+│   ├── 2_2_BIS_Scraper_I.ipynb   # BIS scraper (Part I)
+│   ├── 2_2_BIS_Scraper_II.ipynb  # BIS scraper (Part II)
+│   └── Extra_BCU_Scraper.ipynb   # BCU scraper (extra)
+├── Installation_Guide_VSCode_uv.pdf  # Installation guide
+├── main.py                        # Main Python script
+├── pyproject.toml                # Project dependencies (uv)
+└── uv.lock                       # Locked dependencies for reproducibility
 ```
 
 ## Session plan
