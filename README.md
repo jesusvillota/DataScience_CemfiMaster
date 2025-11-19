@@ -5,6 +5,7 @@
 
 - **Session #1**: Thursday, October 2, 9:30 AM - 11:00 AM @ Room M1 (CEMFI)
 - **Session #2**: Tuesday, October 27, 15:00 AM - 16:30 AM @ Room M1 (CEMFI)
+- **Session #3**: Thursday, Novemeber 19, 09:30 AM - 11:00 AM @ Room M1 (CEMFI)
 
 Please bring your laptop to class with `VSCode` and `uv` installed and ready to run Python code.
 
