@@ -29,8 +29,8 @@ Please bring your laptop to class with `VSCode` and `uv` installed and ready to 
 │   ├── Extra_BCU_Scraper.ipynb   # BCU scraper (extra)
 ├── Session3/                      # Session 3 materials
 │   ├── 3_1_LLM_Intro.ipynb       # Introduction to Large Language Models
-│   ├── 3_2_LLM_Finetuning.ipynb  # Fine-tuning LLMs
-│   ├── 3_3_LLM_II_Function_Calling.ipynb  # LLM function calling
+│   ├── 3_2_LLM_Fine_Tuning.ipynb  # Fine-tuning LLMs
+│   ├── 3_3_LLM_Function_Calling.ipynb  # LLM function calling
 ├── Installation_Guide_VSCode_uv.pdf  # Installation guide
 ├── main.py                        # Main Python script
 ├── pyproject.toml                # Project dependencies (uv)
